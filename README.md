@@ -1,6 +1,6 @@
 # fluttershare
 
-A new Flutter application.
+An Instagram clone built using flutter and firebase
 
 ## Getting Started
 
